@@ -164,4 +164,29 @@ text-align: left
     left: 0%;
   }
 }
+@media (max-width:580px) {
+  .timeline::after{
+    height: 75%;
+  }
+}
+@media (max-width:440px) {
+  .timeline::after{
+    height: 70%;
+  }
+}
+@media (max-width:378px) {
+  .timeline::after{
+    height: 75%;
+  }
+}
+@media (max-width:365px) {
+  .timeline::after{
+    height: 70%;
+  }
+}
+@media (max-width:350px) {
+  .timeline::after{
+    height: 75%;
+  }
+}
 
